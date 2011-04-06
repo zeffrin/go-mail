@@ -1,0 +1,3 @@
+
+
+This is an email library I started when Go-Code first came out.  I assume by now someone has released a library with MIME support so there's really no point to this one, but since I just found it I'm sharing it with you anyway.
